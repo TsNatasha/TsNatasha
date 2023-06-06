@@ -6,5 +6,7 @@
 
 <!---
 TsNatasha/TsNatasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Você pode clicar no link Visualizar para ver suas alterações.
+
+
+
