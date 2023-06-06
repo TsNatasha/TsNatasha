@@ -1,3 +1,8 @@
+
+
+https://github.com/TsNatasha/TsNatasha/assets/135672150/93b2c5e8-fd17-48f4-b7d4-d887eeb14c63
+
+![PhotoFix20230520164843](https://github.com/TsNatasha/TsNatasha/assets/135672150/194ea7b1-9b12-42ce-b27c-8b8e47007e73)
 - 👋 Hi, I’m @TsNatasha
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
